@@ -47,5 +47,11 @@ jupyter-notebook
 
 Now you are free to run, edit and test the project using Jupyter-Notebook. Happy coding! :sparkles:
 
+## Documentation
+
+Read more about it on [Medium](https://boolxr.medium.com/when-pandas-json-normalize-doesnt-work-ff5f9a0abc7d)
+
+![nested-c](https://user-images.githubusercontent.com/26126449/120164899-e4faa080-c1af-11eb-9318-d8bf2033dbb1.png)
+
 ## Contributing
 If you would like to submit a bug report, question, or documentation suggestion, please submit the issue through GitHub.
