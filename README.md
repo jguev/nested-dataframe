@@ -49,7 +49,7 @@ Now you are free to run, edit and test the project using Jupyter-Notebook. Happy
 
 ## Documentation
 
-Read more about it on [Medium](https://boolxr.medium.com/when-pandas-json-normalize-doesnt-work-ff5f9a0abc7d)
+Read more about it on [Geek Culture](https://medium.com/geekculture/when-pandas-json-normalize-doesnt-work-ff5f9a0abc7d) article
 
 ![nested-c](https://user-images.githubusercontent.com/26126449/120164899-e4faa080-c1af-11eb-9318-d8bf2033dbb1.png)
 
